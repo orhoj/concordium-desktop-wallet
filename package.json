@@ -127,13 +127,13 @@
     ],
     "publish": {
       "provider": "github",
-      "owner": "Concordium",
+      "owner": "orhoj",
       "repo": "concordium-desktop-wallet"
     }
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Concordium/concordium-desktop-wallet"
+    "url": "git+https://github.com/orhoj/concordium-desktop-wallet"
   },
   "author": {
     "name": "Concordium Software",
